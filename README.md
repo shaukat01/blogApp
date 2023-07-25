@@ -1,1 +1,1 @@
-# About:
+# About : This is my second backend project where I applied my knowledge thoroughly to create a mini-project. This project focuses on functionalities like posting a new post, liking a post, and deleting a post. It includes all these information in a database.
